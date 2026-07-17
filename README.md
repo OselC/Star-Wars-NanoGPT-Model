@@ -9,9 +9,7 @@ Python version used: `3.10.9`
 ```txt
 gymnasium==0.28.1
 ipykernel==6.19.2
-matplotlib==3.7.1
 numpy==1.23.1
-pandas==2.0.3
 seaborn==0.12.2
 scikit-learn==1.3.0
 tensorflow==2.10.0
